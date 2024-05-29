@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0001",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0001.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "3/4 sit-up",
+    "target": "abs"
+  },
+  {
+    "id": "0002",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0002.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "45° side bend",
+    "target": "abs"
+  },
+  {
+    "id": "0003",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0003.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "air bike",
+    "target": "abs"
+  },
+  {
+    "id": "0004",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0004.gif",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "name": "alternate heel touchers",
+    "target": "abs"
+  },
+  {
+    "id": "0005",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0005.gif",
+    "bodyPart": "back",
+    "equipment": "cable",
+    "name": "alternate lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "id": "0006",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0006.gif",
+    "bodyPart": "chest",
+    "equipment": "leverage machine",
+    "name": "assisted chest dip (kneeling)",
+    "target": "pectorals"
+  },
+  {
+    "id": "0007",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0007.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted hanging knee raise with throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0008",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0008.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted hanging knee raise",
+    "target": "abs"
+  },
+  {
+    "id": "0009",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0009.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted lying leg raise with lateral throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0010",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0010.gif",
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "name": "assisted lying leg raise with throw down",
+    "target": "abs"
+  },
+  {
+    "id": "0011",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0011.gif",
+    "bodyPart": "waist",
+    "equipment": "medicine ball",
+    "name": "assisted motion russian twist",
+    "target": "abs"
+  },
+  {
+    "id": "0012",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0012.gif",
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "name": "assisted parallel close grip pull-up",
+    "target": "lats"
+  },
+  {
+    "id": "0013",
+    "gifUrl": "https://res.cloudinary.com/devthakur/image/upload/v1686929351/Exercises_Gif/gif_image_0013.gif",
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "name": "assisted prone hamstring",
+    "target": "hamstrings"
+  }
+]
